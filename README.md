@@ -61,9 +61,6 @@ Japanese-Level-Classifier/
 ### 🔗 [Try the Gradio Live App](https://1a72f484d62159fbed.gradio.live/)  
 *(Note: The link expires after each session)*  
 
-## Screenshot  
-![Gradio Demo](gradio_demo.png)
-
 ---
 
 ## Future Scope
